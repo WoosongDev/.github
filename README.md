@@ -3,7 +3,7 @@
 Ko'ch birlikda!
 
 # Mundarija
-
+-Kirish so'zi
 
 
 # Roadmap
