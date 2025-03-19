@@ -1,6 +1,7 @@
 # .github
 
 Ko'ch birlikda!
+Find the thing you know how to do better than anybody:)
 
 # Mundarija
 
