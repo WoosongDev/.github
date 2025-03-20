@@ -1,4 +1,4 @@
-## Hi there 👋
+## Assalomu alaykum👋
 
 # Maqsad: 
 Woosong Universitetga yangi kelgan o'zbek studentlar uchun o'qish qo'llanmasi qilish. Biz urilgan devorga kayta urilmasin va keyin pog'onaga o'tishiga yaki orzusiga tezroq yetishiga ko'maklashish.
