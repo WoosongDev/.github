@@ -1,6 +1,6 @@
 # .github
 
-Ko'ch birlikda!
+Kuch birlikda!
 
 # Mundarija
 -Kirish so'zi
