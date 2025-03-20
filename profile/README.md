@@ -9,10 +9,10 @@ Semesterma semester qilishi yoki o'qishi kerak bo'lgan mavzu, kurs, kitoblar ro'
 # Contrubution guideline
 Agar siz Woosong talabasi bo'sangiz, jamoaga hissa qo'shing!
 
-# Telegram kanal (yoki kerak emasmi?)
+# Telegram gruppa (yoki kerak emasmi?)
 @wdcommunity25
 
-# Bog'lanish uchun: 
+# Bog'lanish uchun (24 soat ichida javob beramiz): 
 Xozircha: abdirayimovsardor20@gmail.com
 
 <!--
