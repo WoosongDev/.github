@@ -4,7 +4,7 @@
 Woosong Universitetga yangi kelgan o'zbek studentlar uchun o'qish qo'llanmasi qilish. Biz urilgan devorga kayta urilmasin va keyin pog'onaga o'tishiga yaki orzusiga tezroq yetishiga ko'maklashish.
 Chunki, bizga nelegal, chalasavod, amalparast, laganbardorlar emas, o'z kasbini mutahasislari kerak. U shunday qo'llanma bo'lsinki, yilma yil qadri oshib va aktual bo'lib tursin.
 Semesterma semester qilishi yoki o'qishi kerak bo'lgan mavzu, kurs, kitoblar ro'yxati qilish, maslahatlar berish, ko'p so'raladigan savollarga javob berish, (kompaniya qidishmi yoki resume yozish)
-- Insonning qayoqdan kelgani emas, qyerga qarab borayotgani muhim!
+- Insonning qayoqdan kelgani emas, qayerga qarab borayotgani muhim!
 
 # Contrubution guideline
 Agar siz Woosong talabasi bo'sangiz, jamoaga hissa qo'shing!
