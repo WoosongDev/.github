@@ -7,7 +7,7 @@ Semesterma semester qilishi yoki o'qishi kerak bo'lgan mavzu, kurs, kitoblar ro'
 - Insonning qayoqdan kelgani emas, qayerga qarab borayotgani muhim!
 
 # Contrubution guideline
-Agar siz Woosong talabasi bo'sangiz, jamoaga hissa qo'shing!
+Agar siz Woosong talabasi bo'lsangiz, jamoaga hissa qo'shing!
 
 # Telegram gruppa (yoki kerak emasmi?)
 @wdcommunity25
